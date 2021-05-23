@@ -1,9 +1,9 @@
-# test name
-  [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# new folder test
+  [![license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
   ## Description:
 
-  test description
+  folder test
 
   ## Table of Contents:
 
@@ -15,33 +15,34 @@
   - [Questions](#questions)
 
   ## Installation:
+  
   To install necessary dependencies, run the following command:
 
   ```
-  npm i
+  test
   ```
 
   ## Usage:
 
-  test used
+  test
 
   ## License:
 
-  This product is licensed under the MIT license.
+  This product is licensed under the GPL 3.0 license.
 
   ## Contributing:
 
-  test contribute
+  test
 
   ## Tests:
 
   To run tests, enter the following command:
 
   ```
-  test test
+  test
   ```
 
   ## Questions:
 
-  If you have any questions about the repo, open an issue or contact me directly at aweghosrt@yahoo.com.  You can find more of my work on my github: [aweghorst](http://www.github.com/aweghorst)
+  If you have any questions about the repo, open an issue or contact me directly at alex2@weghorst.com.  You can find more of my work on my github: [aweghorst](http://www.github.com/aweghorst)
   
