@@ -124,8 +124,7 @@ const questions = [
   {
     type: "input",
     name: "test",
-    message:
-      "Please give users instructions on how to run all necessary tests.",
+    message: "What is the command to run all necessary tests.",
     validate: testInput => {
       if (testInput) {
         return true;
