@@ -15,7 +15,7 @@
 
   ## Installation:
   
-  To install necessary dependencies, run the following command:
+  To install the necessary dependencies, run the following command:
 
   ```
   npm install
@@ -27,7 +27,7 @@
 
   ## License:
 
-  This product is licensed under the None license.
+  This product has the following Licenses: None.
 
   ## Contributing:
 
