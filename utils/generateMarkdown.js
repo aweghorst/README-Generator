@@ -38,7 +38,11 @@ function renderLicenseSection(license) {
   let licenseBadge = renderLicenseBadge(license);
   let licenseLink = renderLicenseLink(license);
 
-  return `[![license](${licenseBadge})](${licenseLink})`;
+  if (licenseBadge === "") {
+    return "";
+  } else {
+    return `[![license](${licenseBadge})](${licenseLink})`;
+  }
 }
 
 // TODO: Create a function to generate markdown for README
@@ -62,7 +66,7 @@ function generateMarkdown(data) {
 
   ## Installation:
   
-  To install necessary dependencies, run the following command:
+  To install the necessary dependencies, run the following command:
 
   \`\`\`
   ${data.installation}
@@ -74,7 +78,7 @@ function generateMarkdown(data) {
 
   ## License:
 
-  This product is licensed under the ${data.license} license.
+  This product has the following Licenses: ${data.license}.
 
   ## Contributing:
 
