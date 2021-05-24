@@ -23,7 +23,13 @@
 
   ## Usage:
 
-  First, Download the zip file from github.  Second, Unzip to a location.  Third, Open a terminal window and CD to the downloaded folder. Fourth, run "npm install". Fifth, run "node index.js". Sixth, Answer the questions where prompted, all questions must be answered. Seventh, The output file will be saved in the  folder as "Generated-README".
+  * Download the zip file from github.
+  * Unzip the file.
+  * Open a terminal window and CD to the unzipped folder.
+  * Run "npm install".
+  * Run "node index.js".
+  * Answer the questions when prompted, all questions must be answered.
+  * The output file will be saved in the folder as "Generated-README".
 
   ## License:
 
