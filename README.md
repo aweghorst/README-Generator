@@ -33,14 +33,6 @@
 
   Feel free to download the repo for your personal use.  If you'd like to make contributions to this repo, please contact me using the contact info below.
 
-  ## Tests:
-
-  To run tests, enter the following command:
-
-  ```
-  npm test
-  ```
-
   ## Questions:
 
   If you have any questions about the repo, open an issue or contact me directly at aweghorst@yahoo.com.  You can find more of my work on my github: [aweghorst](http://www.github.com/aweghorst)
